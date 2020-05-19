@@ -1,12 +1,12 @@
 const siteConfig = {
   title: 'Fast Not Fat',
   tagline: 'Documentation for Fast Not Fat project',
-  url: 'https://your-docusaurus-test-site.com', // TODO: Set
-  baseUrl: '/',
-  projectName: 'fast-not-fat',
-  organizationName: 'Fast Not Fat',
+  url: 'https://fast-not-fat.github.io/documentation/',
+  baseUrl: '/documentation/',
+  projectName: 'documentation',
+  organizationName: 'Fast-Not-Fat',
   headerLinks: [
-    { doc: 'sockets/admin', label: 'Docs' },
+    { doc: 'sockets/game', label: 'Docs' },
     { href: "https://github.com/Fast-Not-Fat", label: "GitHub" },
     /**
      * TODO: Add blog
