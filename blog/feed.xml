@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Fast Not Fat Blog</title>
-        <link>https://fast-not-fat.github.io//documentation/blog</link>
+        <link>https://fast-not-fat.github.io/documentation//documentation/blog</link>
         <description>The best place to stay up-to-date with the latest Fast Not Fat news and events.</description>
         <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>Fast Not Fat Blog</title>
-            <url>https://fast-not-fat.github.io//documentation/img/logo.png</url>
-            <link>https://fast-not-fat.github.io//documentation/blog</link>
+            <url>https://fast-not-fat.github.io/documentation//documentation/img/logo.png</url>
+            <link>https://fast-not-fat.github.io/documentation//documentation/blog</link>
         </image>
         <copyright>Copyright © 2020 Fast Not Fat</copyright>
         <item>
             <title><![CDATA[Blog Title]]></title>
-            <link>https://fast-not-fat.github.io//documentation/blog/2020/03/6/blog-post.html</link>
-            <guid>https://fast-not-fat.github.io//documentation/blog/2020/03/6/blog-post.html</guid>
+            <link>https://fast-not-fat.github.io/documentation//documentation/blog/2020/03/6/blog-post.html</link>
+            <guid>https://fast-not-fat.github.io/documentation//documentation/blog/2020/03/6/blog-post.html</guid>
             <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
 ]]></description>
