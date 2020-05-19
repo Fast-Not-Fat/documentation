@@ -28,6 +28,8 @@ interface Member {
   skin: Skins;
   x: number;
   y: number;
+  width: number;
+  height: number;
 }
 ```
 
@@ -109,19 +111,6 @@ Emitted when a player starts dragging a member.
 }
 ```
 
-### `round:member:drag:move`
-Emitted when a member is being drag + moving.
-
-- **Flow:** Client ➡️ Server
-- **Data:**
-```
-{
-    memberId: string,
-    x: number,
-    y: number,
-}
-```
-
 ### `round:member:drag:end`
 Emitted when a player stops dragging a member.
 
@@ -130,6 +119,19 @@ Emitted when a player stops dragging a member.
 ```
 {
     memberId: string
+}
+```
+
+### `round:member:move`
+Emitted when a member is moving (drag or drop).
+
+- **Flow:** Client ➡️ Server
+- **Data:**
+```
+{
+    memberId: string,
+    x: number,
+    y: number,
 }
 ```
 
