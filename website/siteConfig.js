@@ -6,7 +6,7 @@ const siteConfig = {
   projectName: 'fast-not-fat',
   organizationName: 'Fast Not Fat',
   headerLinks: [
-    { doc: 'sockets/admin', label: 'Docs' },
+    { doc: 'sockets/game', label: 'Docs' },
     { href: "https://github.com/Fast-Not-Fat", label: "GitHub" },
     /**
      * TODO: Add blog

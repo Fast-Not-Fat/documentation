@@ -1,8 +1,5 @@
 {
   "docs": {
-    "Sockets": ["sockets/admin", "sockets/room"]
-  },
-  "docs-other": {
-    "First Category": ["doc5"]
+    "Sockets": ["sockets/game", "sockets/motion", "sockets/round"]
   }
 }
