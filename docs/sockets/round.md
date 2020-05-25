@@ -89,7 +89,7 @@ This event is send each tick of the round and contain all realtime data.
 }
 ```
 
-### `round:member:spawed`
+### `round:member:spawned`
 Emitted when a member spawns.
 
 - **Flow:** Client ➡️ Server
