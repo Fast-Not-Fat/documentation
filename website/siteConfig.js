@@ -1,13 +1,13 @@
 const siteConfig = {
-  title: 'Fast Not Fat',
-  tagline: 'Documentation for Fast Not Fat project',
-  url: 'https://fast-not-fat.github.io/documentation/',
+  title: 'colobobo',
+  tagline: 'Documentation for colobobo project',
+  url: 'https://colobobo.github.io/documentation/',
   baseUrl: '/documentation/',
   projectName: 'documentation',
-  organizationName: 'Fast-Not-Fat',
+  organizationName: 'colobobo',
   headerLinks: [
     { doc: 'sockets/game', label: 'Docs' },
-    { href: "https://github.com/Fast-Not-Fat", label: "GitHub" },
+    { href: "https://github.com/colobobo", label: "GitHub" },
     /**
      * TODO: Add blog
      * {blog: true, label: 'Blog'},
@@ -17,10 +17,10 @@ const siteConfig = {
   footerIcon: 'img/logo.png',
   favicon: 'img/favicon.png',
   colors: {
-    primaryColor: '#2e424b',
-    secondaryColor: '#202e34',
+    primaryColor: '#526AF7',
+    secondaryColor: '#FCDF4D',
   },
-  copyright: `Copyright © ${new Date().getFullYear()} Fast Not Fat`,
+  copyright: `Copyright © ${new Date().getFullYear()} colobobo`,
   highlight: {
     theme: 'default',
   },
