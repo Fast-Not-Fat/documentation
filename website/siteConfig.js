@@ -6,7 +6,7 @@ const siteConfig = {
   projectName: 'documentation',
   organizationName: 'colobobo',
   headerLinks: [
-    { doc: 'sockets/game', label: 'Docs' },
+    { doc: 'sockets/introduction', label: 'Docs' },
     { href: "https://github.com/colobobo", label: "GitHub" },
     /**
      * TODO: Add blog
@@ -15,7 +15,7 @@ const siteConfig = {
   ],
   headerIcon: 'img/logo.png',
   footerIcon: 'img/logo.png',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon.ico',
   colors: {
     primaryColor: '#526AF7',
     secondaryColor: '#FCDF4D',

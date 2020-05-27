@@ -1,5 +1,13 @@
 {
   "docs": {
-    "Sockets": ["sockets/game", "sockets/motion", "sockets/round"]
+    "Sockets": [
+      "sockets/introduction",
+      "sockets/game",
+      {
+        "type": "subcategory",
+        "label": "Scenes",
+        "ids": ["sockets/scenes/transition-scene", "sockets/scenes/round-scene"]
+      }
+    ]
   }
 }
